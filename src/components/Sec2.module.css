@@ -1,0 +1,46 @@
+.Sec2{
+    width: 100%;
+    height: 100vh;
+    background-color: #ffffff;
+    padding: 0 100px;
+    display: flex;
+    align-items: center;
+}
+
+.Sec2_main{
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 40vw;
+}
+
+.Sec2_num{
+    font-family: Gmarket Sans TTF;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -2.08px;
+    background: linear-gradient(90deg, #45F075 0.93%, #2746ED 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.Sec2_title{
+    margin-bottom: 30px;
+    color: #262626;
+    font-family: Gmarket Sans TTF;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%; /* 54px */
+    letter-spacing: -1.08px
+}
+
+.Sec2_text{
+    color: #272727;
+    font-family: Pretendard;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 165%;
+}
